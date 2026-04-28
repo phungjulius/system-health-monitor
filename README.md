@@ -41,7 +41,7 @@ system-health-monitor/
 **Requirements:** Python 3.10+, Linux (or WSL on Windows)
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/system-health-monitor.git
+git clone https://github.com/phungjulius/system-health-monitor.git
 cd system-health-monitor
 
 pip install -r requirements.txt
